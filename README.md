@@ -1,0 +1,2 @@
+# Removing Elements
+Learnt about removing elements from a-frame scene and how to remove eventListeners from the elements. Learnt about Cannon.js library(A-Frame 3D physics system is built on a JavaScript physics engine library called Cannon.js)
